@@ -44,6 +44,6 @@
 | 프로젝트명 | 설명 | 링크 |
 |------------|------|------|
 | **ImageStation** | 이미지 기반 데이터 플랫폼 프로젝트 | [바로가기](https://github.com/Our-Dream-Blue-Marble/ImageStation) |
-| **잇다 (it_da)** | 커뮤니티 기반 SNS 프로젝트 | [바로가기](https://github.com/moappitda/it_da) |
+| **잇다 (it_da)** | 커뮤니티 기반 SNS 프로젝트 | [바로가기](https://github.com/ssunidayz/it_da) |
 | **CatchMood** | 감정 기반 서비스 UI/UX 프로젝트 | [바로가기](https://github.com/appHCI/CatchMood) |
 | **Sphere in Handong** | LED Sphere 디스플레이 제어 프로젝트 | [바로가기](https://github.com/MCNL-HGU/sphere_in_handong) |
