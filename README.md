@@ -13,10 +13,9 @@
 ---
 
 ## ⚡ GitHub Stats
-<div align="center">
+<div align="left">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuni00&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ssuni00&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
